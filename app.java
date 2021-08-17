@@ -1,4 +1,4 @@
 echo "what is your name"
 read name 
-echo "wWelcome $name"
-
+echo "Welcome $name"
+echo "Welcome to LAndmark Technologies"
